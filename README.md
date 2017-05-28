@@ -12,9 +12,9 @@ net.add(Dense(3))
 
 3 Different types of Layers
 1. Flat (aka Dense)
-   `Dense((output))`
+   `Dense(output)`
 2. Vanilla RNN
-   `Vanilla((output))`
+   `Vanilla(output)`
 
 
 Future Works
