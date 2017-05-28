@@ -1,0 +1,34 @@
+{
+  "name": "deep-learning-neural-network",
+  "version": "0.0.1",
+  "description": "A quick to use neural network library that lets users hit the ground running on deep learning projects in Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Solomon Gaim <sgaim@u.rochester.edu>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1"
+  },
+  "devDependencies": {
+    "browserify": "^14.3.0",
+    "chroma-js": "^1.3.3",
+    "express": "^4.15.3",
+    "grunt-browserify": "^5.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^2.3.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-express": "^1.4.1",
+    "grunt-notify": "^0.4.5",
+    "grunt-parallel": "^0.5.1",
+    "jquery": "^3.2.1",
+    "mathjs": "^3.12.3",
+    "socket.io": "^2.0.1",
+    "underscore": "^1.8.3"
+  }
+}
